@@ -1,0 +1,6 @@
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\bin\Debug\MassEffect.exe.config
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\bin\Debug\MassEffect.exe
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\bin\Debug\MassEffect.pdb
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\obj\Debug\MassEffect.csprojResolveAssemblyReference.cache
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\obj\Debug\MassEffect.exe
+C:\Users\msmilkoff\Desktop\Mass Effect\MassEffect\obj\Debug\MassEffect.pdb
